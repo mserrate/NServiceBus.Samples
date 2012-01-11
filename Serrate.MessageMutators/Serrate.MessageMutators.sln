@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{A26B7813-8875-49F6-A302-C8BD84BC0D0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{73D09A67-BE06-4E84-B384-534FC7D49693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messages", "Messages\Messages.csproj", "{06F335C5-441F-477C-94EE-CD4E552D3D0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mutators", "Mutators\Mutators.csproj", "{F6C014CD-207C-473E-93C1-BE7369372068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A26B7813-8875-49F6-A302-C8BD84BC0D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26B7813-8875-49F6-A302-C8BD84BC0D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26B7813-8875-49F6-A302-C8BD84BC0D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26B7813-8875-49F6-A302-C8BD84BC0D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D09A67-BE06-4E84-B384-534FC7D49693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D09A67-BE06-4E84-B384-534FC7D49693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D09A67-BE06-4E84-B384-534FC7D49693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D09A67-BE06-4E84-B384-534FC7D49693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06F335C5-441F-477C-94EE-CD4E552D3D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F335C5-441F-477C-94EE-CD4E552D3D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F335C5-441F-477C-94EE-CD4E552D3D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F335C5-441F-477C-94EE-CD4E552D3D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C014CD-207C-473E-93C1-BE7369372068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C014CD-207C-473E-93C1-BE7369372068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C014CD-207C-473E-93C1-BE7369372068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C014CD-207C-473E-93C1-BE7369372068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
